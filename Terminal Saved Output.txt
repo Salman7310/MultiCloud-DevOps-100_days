@@ -1,0 +1,44 @@
+Last login: Sun Sep 20 13:13:01 on ttys000
+salman_macbook@Salman-Macbooks-MacBook-Pro ~ % cd /Users/salman_macbook/Desktop/100\ days\ DevOps
+salman_macbook@Salman-Macbooks-MacBook-Pro 100 days DevOps % git clone https://github.com/Salman7310/MultiCloud-DevOps-100_days.git
+Cloning into 'MultiCloud-DevOps-100_days'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+salman_macbook@Salman-Macbooks-MacBook-Pro 100 days DevOps % cd /Users/salman_macbook/Desktop/100\ days\ DevOps/MultiCloud-DevOps-100_days
+salman_macbook@Salman-Macbooks-MacBook-Pro MultiCloud-DevOps-100_days %    nano create-100-days-folders.sh
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09            File: create-100-days-folders.sh            Modified  
+
+## Key Takeaways
+-
+  
+## Resources
+-
+EOF
+  fi
+done
+ 
+git add .
+git commit -m "Create Day-001 to Day-100 folder structure for 100 Days of DevOp$
+git push
+  
+echo ""
+echo "Done! All 100 day folders are created and pushed to GitHub."
+   
+    
+
+ 
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
