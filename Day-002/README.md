@@ -12,6 +12,20 @@
 - Automation reduces repetitive operational work and helps DevOps teams focus on delivery and reliability
 - Effective AIOps depends on quality monitoring data, observability, and well-defined operational processes
 
+☁️ **Create a VM on Google Cloud in 6 steps**
+
+1️⃣ Compute Engine → Create Instance
+2️⃣ Name it (e.g. `vmdemo`)
+3️⃣ OS and Storage → pick Ubuntu
+4️⃣ Networking → allow HTTP and HTTPS
+5️⃣ Click Create
+✅ VM is ready!
+
+Save it for later 📌
+<img width="2160" height="2170" alt="gcp_create_vm_steps_2" src="https://github.com/user-attachments/assets/c3367d1e-3c47-4393-890e-efe2b97e87c4" />
+
+
+
 ## AIOps Reference
 
 ![AI Ops](./AI_Ops.png)
